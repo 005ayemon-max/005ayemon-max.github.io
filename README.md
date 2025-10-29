@@ -12,7 +12,6 @@
 * 2018-2019: High School Graduate - Basic Education High School Duya, Ye Township, Mon State, Myanmar
 * 2021-2024: Mass Media and Journalism - Mon National College, Ye Township, Mon State, Myanmar
 * 2024-Present: Hospitality Industry Management - International College, Payap University, Chiang Mai, Thailand
-* 2025: Thai Basic (4) Skills - Insider Thai Education Center in Online
 
 # Experience
 * Summer Intern - New York State Rabies Screening Laboratory
