@@ -9,7 +9,7 @@
 > “My student life at Payap University is a journey of embracing diversity, growing in wisdom, and daring to take on new challenges — a chapter that shapes the best version of myself and lights the path to my future.”
 
 # Education
-* SB Chemistry - Massachusetts Institute of Technology
+* High School Graduate - Basic Education High School Duya, Ye Township, Mon State, Myanmar
 * PhD Pathobiology - Johns Hopkins University
 * NIH Post Doctoral Fellow - University of Wisconsin at Madison
 * MS Applied Mathematics and Computer Science - Indiana University - South Bend
