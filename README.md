@@ -3,10 +3,10 @@
 # _Aye Mon_
 > _International Student_<br />
 >  Department of Hospitality Industry Management (HIM), Payap University <br />
+
 >  Amaret Apartment, Nong Pa Krang Sub-district, Mueang Chiang Mai District, Chiang Mai, 50000<br />
 
-> Computer Solutions Developer with decades of experience in Data Science and Big Data Analytics, Natural language Processing, Document Publishing Systems, 
-and Web Community Development as well as mutagenic and carcinogenic activities of anthelmintics
+> “My student life at Payap University is a journey of embracing diversity, growing in wisdom, and daring to take on new challenges — a chapter that shapes the best version of myself and lights the path to my future.”
 
 # Education
 * SB Chemistry - Massachusetts Institute of Technology
