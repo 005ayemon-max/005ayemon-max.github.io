@@ -2,7 +2,7 @@
 
 # _Aye Mon_
 > _International Student_<br />
->  Department of Hospitality Industry Management (HIM), Payap University <br />
+>  Department of Hospitality Industry Management (HIM), International College, Payap University <br />
 
 >  Amaret Apartment, Nong Pa Krang Sub-district, Mueang Chiang Mai District, Chiang Mai, 50000<br />
 
