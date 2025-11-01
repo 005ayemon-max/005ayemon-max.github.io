@@ -1,5 +1,5 @@
+<img src="http://rbatzing.github.io/img/bob5.png" alt="RPB Photo" align="right" width="30%"/>
 
-<img src="pretty.jpg" alt="pretty" align="right" width="30%" height="20" style="border-radius:10px;">
 
 # _Aye Mon_
 > _International Student_<br />
