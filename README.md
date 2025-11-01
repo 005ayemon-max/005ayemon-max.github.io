@@ -27,7 +27,7 @@
 * 2025: Joined Inspirining Your Entrepreneurship Start UP by Mr.Chulanit Wangwiwat - Payap University
   
 # Interests
-* Learning new language
+* Learning new languages
 
 # Project experience with Languages
 * 2025: Teaching English to the children in my hometown online 
@@ -36,9 +36,8 @@
 * Mon, Burmese, English, Thai
 
 # Contact Info
-* [Web Page](https://rbatzing.github.io)
+* [Web Page](005ayemon-max)
 * [LinkedIn](https://www.linkedin.com/in/robert-batzinger)
-* [Twitter](https://twitter.com/rbatz)
-* [Google Scholar](https://scholar.google.com/citations?user=LYSacdYAAAAJ&hl=en)
-* [Research Gate](https://www.researchgate.net/profile/Robert-Batzinger)
+* [Instagram]([https://twitter.com/rbatz](https://www.instagram.com/a_mon9557?igsh=MTA4YW9pMmNybWZmOA%3D%3D&utm_source=qr)
+* [Facebook](https://www.facebook.com/share/1FXv3mx7dg/)
 
