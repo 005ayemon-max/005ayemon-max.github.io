@@ -1,5 +1,5 @@
 
-<img src="pretty.jpg" alt="prettyt" align="right" width="30%" height="20" style="border-radius:10px;">
+<img src="pretty.jpg" alt="pretty" align="right" width="30%" height="20" style="border-radius:10px;">
 
 # _Aye Mon_
 > _International Student_<br />
