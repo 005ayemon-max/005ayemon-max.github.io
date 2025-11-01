@@ -14,34 +14,26 @@
 * 2024-Present: Hospitality Industry Management - International College, Payap University, Chiang Mai, Thailand
 
 # Experience
-* Summer Intern - New York State Rabies Screening Laboratory
-* Undergraduate Research Opportunity Intern - Environmental Health Sciences Center, Massachusetts Institute of Technology
-* Urban Vehicle Design Competition - Team communications and logistics officer, Massachusetts Institute of Technology
-* Research Assistant - Wellcome Laboratory, Johns Hopkins University 
-* Post Doctoral Fellow - McArdle Laboratory, University of Wisconsin at Madison
-* Project Head - Faculty of Pharmacy, Payap University
-* Acting Dean - Faculty of Science, Payap University
-* Software Development Lead - Computer-Assisted Text Processing Center, Thailand Bible Society
-* Director - United Bible Society Asia-Pacific Regional Computer-Assisted Text Processing Center
-* Office Manager - Martin Kehoe Law Office - Guilderland, NY
-* Informatics Lab Manager - Indiana University - South Bend
-* Computer Science Instructor - Payap University
-* IT Director - Payap University
-* Praceptor Emeritus - Payap University
+* 2024-2025: Served as a member of International College Student Union (ICSU) - Payap University
+* 2024: Volunteer in the IC volunteer project - Ban San Sai School, Mae Sai District, Chiang Rai Province
+* 2024: Patricipated in the international lantern invention with creative culture and light of friendship - Nong Khong Village Cultural Square, Sam Kamphaeng District, Chiang Mai Province
+* 2025: Joined Chinese New Year Festival Activities to promote Payap University - Chiang Mai Chinatown
+* 2025: Waste Management Project - Payap University
+* 2025: Joined in the guest registration in the World Communion of Reformed Churches - The Empress Hotel
 
+# Workshop
+* 2023: Business Knowledge-Sharing by the Mon Entrepreneurs Association - Mon National College, Mon State, Myanmar
+* 2025: Participant of Youth Leadership Training by JCI - Payap University
+* 2025: Joined Inspirining Your Entrepreneurship Start UP by Mr.Chulanit Wangwiwat - Payap University
+  
 # Interests
-* Applied machine learning, data science, modeling and forecasting to assist decision making
-* Natural language processing to automate prepublication editing support
-* Web and online community development and e-business
-* Blended and online education for higher education and livelong learning
-* Bible study and its life applications
+* Learning new language
 
 # Project experience with Languages
-* Computer programming: Fortran 4, 6809 Assembler, C, MS BASIC, Forth, Z80 Assembler, Pascal, Lisp, C++, AWK, SNOBOL, APL, troff, SPITBOL, Perl, SmallTalk, Icon, Fortran 77, TeX, Metafont, XLISP, Visual Basic, SQL, Python, LaTeX, VBA, Ruby, Java, PHP, Ruby on Rails, R, JavaScript, Angular JS, Node JS, NoSQL, Bender, Julia
-* Human: English, Thai, French, German
-* OS Command shells: CP/M, UNIX, MSDOS, MS Windows, OsX, Linux, KSH, BASH, SSH, Ardunio, Android
-* Version control: RCS, CVS, Subversion, Bazaar, GIT
-* Open standards: HTML, CSS, XML, RSS, GPX, Unicode, ISO9001, ISO29110
+* 2025: Teaching English to the children in my hometown online 
+
+# Languages
+* Mon, Burmese, English, Thai
 
 # Contact Info
 * [Web Page](https://rbatzing.github.io)
