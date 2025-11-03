@@ -1,4 +1,4 @@
-<img src="Mon.JPG.jpg" align="right" width="27%" height="37%">
+<img src="Mon.JPG.jpg" align="right" width="27%" height="57%">
 
 # _Aye Mon_
 > _International Student_<br />
