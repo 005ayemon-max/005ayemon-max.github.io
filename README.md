@@ -24,7 +24,7 @@
 * 2024: Volunteered in the IC volunteer project - Ban San Sai School, Mae Sai District, Chiang Rai Province
 * 2024: Patricipated in the international lantern invention with creative culture and light of friendship - Nong Khong Village Cultural Square, Sam Kamphaeng District, Chiang Mai Province
 * 2025: Joined Chinese New Year Festival Activities to promote Payap University - Chiang Mai Chinatown
-* 2025: Orgsnized Waste Management Project - Payap University
+* 2025: Organized Waste Management Project - Payap University
 * 2025: Joined in the guest registration in the World Communion of Reformed Churches - The Empress Hotel
 * 2025: Volunteered as a Data Collection Assistance of "Student Migration from Myanmar to Thailand" - Chiang Mai University
 * 2025: Join the Community Service Club - Payap University
