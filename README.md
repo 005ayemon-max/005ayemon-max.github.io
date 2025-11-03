@@ -1,6 +1,6 @@
 <img src="Mon.JPG.jpg" align="right" width="27%" height="47%">
 
-# _Aye Mon_
+# Aye Mon
 > _International Student_<br />
 >  Department of Hospitality Industry Management (HIM), International College, Payap University <br />
 
