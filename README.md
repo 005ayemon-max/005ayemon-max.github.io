@@ -9,7 +9,7 @@
 > “My student life at Payap University is a journey of embracing diversity, growing in wisdom, and daring to take on new challenges
  — a chapter that shapes the best version of myself and lights the path to my future.”
 
-# Education
+# Contacts
 * Location: Amaret Apartment, Nong Pa Krang Sub-district, Mueang Chiang Mai District, Chiang Mai, 50000<br />
 * Email: 005ayemon@gmail.com 
 * Phone: +66 61 739 2934
@@ -38,13 +38,13 @@
 * Learning new languages
 * Video Editting
 
-# Project experience with Languages
+# Project Experience with Languages
 * 2025: Teaching English to the children in my hometown online 
 
 # Languages
 * Mon, Burmese, English, Thai
 
-# Contact Info
+# Connect with me
 * [Web Page](https://005ayemon-max.github.io/)
 * [LinkedIn](https://www.linkedin.com/in/aye-mon-5a8138298/)
 * [Instagram](https://www.instagram.com/a_mon9557?igsh=MTA4YW9pMmNybWZmOA%3D%3D&utm_source=qr)
