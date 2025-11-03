@@ -1,7 +1,8 @@
 <img src="Mon.JPG.jpg" align="right" width="27%" height="47%">
 
 # Aye Mon
-> _Undergraduate Student_
+
+_Undergraduate Student_
 
 >  Department of Business Administration in Hospitality Industry Management (HIM), International College, Payap University <br />
 
