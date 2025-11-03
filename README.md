@@ -1,4 +1,4 @@
-<img src="Mon.JPG.jpg" align="right" width="27%" height="57%">
+<img src="Mon.JPG.jpg" align="right" width="27%" height="47%">
 
 # _Aye Mon_
 > _International Student_<br />
@@ -20,7 +20,8 @@
 * 2025: Joined Chinese New Year Festival Activities to promote Payap University - Chiang Mai Chinatown
 * 2025: Waste Management Project - Payap University
 * 2025: Joined in the guest registration in the World Communion of Reformed Churches - The Empress Hotel
-
+* 2025: Join the Community Service Club - Payap University
+ 
 # Workshop
 * 2023: Business Knowledge-Sharing by the Mon Entrepreneurs Association - Mon National College, Mon State, Myanmar
 * 2025: Participant of Youth Leadership Training by JCI - Payap University
