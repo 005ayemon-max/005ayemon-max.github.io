@@ -1,12 +1,15 @@
 <img src="Mon.JPG.jpg" align="right" width="27%" height="47%">
 
 # Aye Mon
-> _International Student_<br />
->  Department of Hospitality Industry Management (HIM), International College, Payap University <br />
-
->  Amaret Apartment, Nong Pa Krang Sub-district, Mueang Chiang Mai District, Chiang Mai, 50000<br />
+> _Undergraduate Student_<br />
+>  Department of Business Administration in Hospitality Industry Management (HIM), International College, Payap University <br />
 
 > “My student life at Payap University is a journey of embracing diversity, growing in wisdom, and daring to take on new challenges — a chapter that shapes the best version of myself and lights the path to my future.”
+
+# Education
+* Location: Amaret Apartment, Nong Pa Krang Sub-district, Mueang Chiang Mai District, Chiang Mai, 50000<br />
+* Email: 005ayemon@gmail.com 
+* Phone: +66 61 739 2934
 
 # Education
 * 2018-2019: High School Graduate - Basic Education High School Duya, Ye Township, Mon State, Myanmar
