@@ -37,7 +37,7 @@
 
 # Contact Info
 * [Web Page](https://005ayemon-max.github.io/)
-* [LinkedIn](https://www.linkedin.com/in/robert-batzinger)
+* [LinkedIn](https://www.linkedin.com/in/aye-mon-5a8138298/)
 * [Instagram](https://www.instagram.com/a_mon9557?igsh=MTA4YW9pMmNybWZmOA%3D%3D&utm_source=qr)
 * [Facebook](https://www.facebook.com/share/1FXv3mx7dg/)
 
