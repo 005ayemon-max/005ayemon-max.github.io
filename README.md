@@ -21,21 +21,22 @@
 
 # Experience
 * 2024-2025: Served as a member of International College Student Union (ICSU) - Payap University
-* 2024: Volunteer in the IC volunteer project - Ban San Sai School, Mae Sai District, Chiang Rai Province
+* 2024: Volunteered in the IC volunteer project - Ban San Sai School, Mae Sai District, Chiang Rai Province
 * 2024: Patricipated in the international lantern invention with creative culture and light of friendship - Nong Khong Village Cultural Square, Sam Kamphaeng District, Chiang Mai Province
 * 2025: Joined Chinese New Year Festival Activities to promote Payap University - Chiang Mai Chinatown
-* 2025: Waste Management Project - Payap University
+* 2025: Orgsnized Waste Management Project - Payap University
 * 2025: Joined in the guest registration in the World Communion of Reformed Churches - The Empress Hotel
 * 2025: Volunteered as a Data Collection Assistance of "Student Migration from Myanmar to Thailand" - Chiang Mai University
 * 2025: Join the Community Service Club - Payap University
  
 # Workshop
-* 2023: "Business Knowledge-Sharing" by the Mon Entrepreneurs Association - Mon National College, Mon State, Myanmar
+* 2023: Attended "Business Knowledge-Sharing" by the Mon Entrepreneurs Association - Mon National College, Mon State, Myanmar
 * 2025: Joined "Youth Leadership Training" by JCI - Payap University
 * 2025: Joined "Inspirining Your Entrepreneurship Start Up" by Mr.Chulanit Wangwiwat - Payap University
   
 # Interests
 * Learning new languages
+* Video Editting
 
 # Project experience with Languages
 * 2025: Teaching English to the children in my hometown online 
