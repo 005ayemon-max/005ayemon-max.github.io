@@ -13,8 +13,8 @@
 
 # Education
 * 2018-2019: High School Graduate - Basic Education High School Duya, Ye Township, Mon State, Myanmar
-* 2021-2024: Mass Media and Journalism - Mon National College, Ye Township, Mon State, Myanmar
-* 2024-Present: Hospitality Industry Management - International College, Payap University, Chiang Mai, Thailand
+* 2021-2024: Mass Media and Journalism - Mon National College, Ye Township, Mon State, Myanmar _(GPA:3.30)_
+* 2024-Present: Hospitality Industry Management - International College, Payap University, Chiang Mai, Thailand _(GPA:4.00)_
 
 # Experience
 * 2024-2025: Served as a member of International College Student Union (ICSU) - Payap University
@@ -23,12 +23,13 @@
 * 2025: Joined Chinese New Year Festival Activities to promote Payap University - Chiang Mai Chinatown
 * 2025: Waste Management Project - Payap University
 * 2025: Joined in the guest registration in the World Communion of Reformed Churches - The Empress Hotel
+* 2025: Volunteered as a Data Collection Assistance of "Student Migration from Myanmar to Thailand" - Chiang Mai University
 * 2025: Join the Community Service Club - Payap University
  
 # Workshop
-* 2023: Business Knowledge-Sharing by the Mon Entrepreneurs Association - Mon National College, Mon State, Myanmar
-* 2025: Participant of Youth Leadership Training by JCI - Payap University
-* 2025: Joined Inspirining Your Entrepreneurship Start UP by Mr.Chulanit Wangwiwat - Payap University
+* 2023: "Business Knowledge-Sharing" by the Mon Entrepreneurs Association - Mon National College, Mon State, Myanmar
+* 2025: Joined "Youth Leadership Training" by JCI - Payap University
+* 2025: Joined "Inspirining Your Entrepreneurship Start Up" by Mr.Chulanit Wangwiwat - Payap University
   
 # Interests
 * Learning new languages
