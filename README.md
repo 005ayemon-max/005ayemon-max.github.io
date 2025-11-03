@@ -1,4 +1,4 @@
-<img src="Mon.JPG.jpg" align="right" width="27%">
+<img src="Mon.JPG.jpg" align="right" width="47%">
 
 # AYE MON
 
